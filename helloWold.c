@@ -2,7 +2,9 @@
 
 int main() {
    /* my first program in C */
-   printf("Hello, World! \n");
+   printf("Hello,\n");
+	printf("Fare thee well!");
+   printf("Quicker version!);
    
    return 0;
 }
